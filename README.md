@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=akcps&color=green)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=akcps&show_icons=true)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akcps&theme=blue-green)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
