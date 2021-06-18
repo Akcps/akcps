@@ -2,11 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=akcps&color=green)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=akcps&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=akcps&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true&count_private=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akcps&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akcps&show_icons=true&count_private=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **Akcps/akcps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
