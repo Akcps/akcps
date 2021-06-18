@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=akcps&color=green)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akcps&theme=blue-green)
+
 <!--
 **Akcps/akcps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
